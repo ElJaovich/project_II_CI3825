@@ -1,0 +1,62 @@
+{
+    "Clave dicotómica para árboles templados": [
+        {
+            "Pino": [
+                {"Hojas como agujas": true},
+                {"Hojas de agujas vienen en ramales": true}
+            ]
+        },
+        {
+            "Abeto": [
+                {"Hojas como agujas": true},
+                {"Hojas de agujas vienen en ramales": false}
+            ]
+        },
+        {
+            "Castaño": [
+                {"Hojas como agujas": false},
+                {"Hojas compuestas": true},
+                {"Sub-hojas parten de un punto central": true}
+            ]
+        },
+        {
+            "Nogal": [
+                {"Hojas como agujas": false},
+                {"Hojas compuestas": true},
+                {"Sub-hojas parten de un punto central": false}
+            ]
+        },
+        {
+            "Roble Blanco": [
+                {"Hojas como agujas": false},
+                {"Hojas compuestas": false},
+                {"Bordes de hoja aserrados": false},
+                {"Bordes de hoja con lóbulos": true}
+            ]
+        },
+        {
+            "Magnolia": [
+                {"Hojas como agujas": false},
+                {"Hojas compuestas": false},
+                {"Bordes de hoja aserrados": false},
+                {"Bordes de hoja con lóbulos": false}
+            ]
+        },
+        {
+            "Acebo": [
+                {"Hojas como agujas": false},
+                {"Hojas compuestas": false},
+                {"Bordes de hoja aserrados": true},
+                {"Bordes de hoja con espinas": true}
+            ]
+        },
+        {
+            "Omlo": [
+                {"Hojas como agujas": false},
+                {"Hojas compuestas": false},
+                {"Bordes de hoja aserrados": true},
+                {"Bordes de hoja con espinas": false}
+            ]
+        }
+    ]
+}
